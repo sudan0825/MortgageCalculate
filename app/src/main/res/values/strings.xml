@@ -1,0 +1,35 @@
+<resources>
+
+        <string name="hello">Hello World, QuickMortgageCalculator!</string>
+        <string name="app_name">Mortgage Calculator</string>
+        <string name="Home_value">Home\nValue</string>
+        <string name="down_payment">Down\nPayment</string>
+        <string name="rate">Interest\nRate</string>
+        <string name="property_tax">Property\nTax Rate</string>
+        <string name="button_send">Calculate</string>
+        <string name="reset">Reset</string>
+        <string name="terms">Terms</string>
+        <string name="ten_year">10 yr</string>
+        <string name="fifteen_year">15 yr</string>
+        <string name="thirty_year">30 yr</string>
+        <string name="five_percent">5%</string>
+        <string name="monthly_payment">Monthly\nPayment</string>
+        <string name="total_interest_paid">Total\nInterest\nPaid</string>
+        <string name="total_property_tax_paid">Total\nProperty\nTax Paid</string>
+        <string name="payoff_data">Payoff date</string>
+        <string name="zero">$0.00</string>
+        <string name="zeroInt">0</string>
+    <string name="percent">%</string>
+        <string name="select">select</string>
+    <string name="choose_one">choose one</string>
+    <string-array name="year_array">
+        <item>15 </item>
+        <item>20 </item>
+        <item>25 </item>
+        <item>30 </item>
+        <item>35 </item>
+        <item>40 </item>
+
+    </string-array>
+    </resources>
+
